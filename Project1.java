@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class homework1 {
+public class Project1 {
 
   public static void main (String args[]){
     System.out.println("the report card of a student studying in cbse board");
